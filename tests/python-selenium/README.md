@@ -90,6 +90,10 @@ several flags.
 __Note__
 "~" will not resolve to the home directory when used in the py.test command line.
 
+__Note__
+Please make sure that your running the latest version of Firefox or that your version of Firefox has
+the Firefox Health Report enabled (Help -> Firefox Health Report should be present)
+
 Some options for py.test are pre-specified by the file mozwebqa.cfg
 
 The mozwebqa plugin has advanced command line options for reporting and using
